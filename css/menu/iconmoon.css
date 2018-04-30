@@ -1,0 +1,49 @@
+@font-face {
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'icomoon';
+  src:  url("../fonts/ecoicons/icomoon.eot");
+  src:  url("../fonts/ecoicons/icomoon.eot#iefix") format("embedded-opentype"),
+    url("../fonts/ecoicons/icomoon.woff") format("woff"),
+    url("../fonts/ecoicons/icomoon.ttf") format("truetype"),
+    url("../fonts/ecoicons/icomoon.svg#icomoon") format("svg");
+  
+}
+
+
+
+.icon-profile:before {
+  content: "\e900";
+}
+.icon-card:before {
+  content: "\e900";
+}
+.icon-id:before {
+  content: "\e900";
+}
+.icon-vcard:before {
+  content: "\e900";
+}
+.icon-shopping-bag:before {
+  content: "\e901";
+}
+.icon-home:before {
+  content: "\e902";
+}
+.icon-house:before {
+  content: "\e902";
+}
+.icon-play:before {
+  content: "\e912";
+}
+.icon-cart:before {
+  content: "\e93a";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+
+
